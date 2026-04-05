@@ -2,7 +2,7 @@
 
 # [Why I Mentor: Beyond Knowledge Transfer to Mutual Transformation](https://www.linkedin.com/pulse/why-i-mentor-beyond-knowledge-transfer-mutual-olga-kryuchkova-ocnjf)
 
-*Published on 2025-06-10 17:23*
+*Published on 10-06-2025, 5 min read*
 
 When I first joined the LUT mentoring programme as a mentor in 2023/2024, I assumed my role would be all about giving—sharing insights, offering guidance, helping someone navigate the early stages of their career. What I didn’t anticipate was just how much I’d gain in return.
 

@@ -2,7 +2,7 @@
 
 # [Mure AI: Where Bold Ideas Meet Practical Automation](https://www.linkedin.com/pulse/mure-ai-where-bold-ideas-meet-practical-automation-olga-kryuchkova-da0ke)
 
-*Published on 2025-10-09 14:34*
+*Published on 09-10-2025, 11 min read*
 
 ### I. Origins & Founder’s Background
 

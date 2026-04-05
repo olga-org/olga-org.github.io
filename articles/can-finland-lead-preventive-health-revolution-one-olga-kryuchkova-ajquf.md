@@ -2,7 +2,7 @@
 
 # [Can Finland Lead the Preventive Health Revolution? One Founder Thinks It Already Is](https://www.linkedin.com/pulse/can-finland-lead-preventive-health-revolution-one-olga-kryuchkova-ajquf)
 
-*Published on 2025-06-26 10:23*
+*Published on 26-06-2025, 8 min read*
 
 ### I. Origins & Founder’s Background
 
@@ -35,7 +35,7 @@ Finland already proves you can industrialize personal data at scale. What’s mi
 
 ### III. Finnish Health Ecosystem and your solution
 
-***Olga:*** *Have you noticed any differences between the Nordic countries and your home country,* Austria*, when it comes to finding partners and securing funding? How have these differences influenced your funding strategy and business model?*
+***Olga K.:*** *Have you noticed any differences between the Nordic countries and your home country,* Austria*, when it comes to finding partners and securing funding? How have these differences influenced your funding strategy and business model?*
 
 **Noah:** What really sets the Nordics apart isn’t an instant pipeline of cash - it’s the partnership fabric. Finland in particular has a ‘doors-unlocked’ mentality that puts a young founder two coffees away from people who’ve already built global health hits like Polar and ŌURA. When icons of consumer-grade physiology are willing to talk openly about their missteps and platform choices, you get a masterclass in go-to-market without spending a cent.
 
@@ -49,7 +49,7 @@ So the Nordic difference isn’t about larger cheques; it’s about a collaborat
 
 ### IV. Tech, Data, AI & Ethics
 
-**Olga:** *AI and health? A cure or a curse? Where do you draw the ethical line with automation? Today it is not just a buzzing questions but the reality of AI implementation.*
+**Olga K.:** *AI and health? A cure or a curse? Where do you draw the ethical line with automation? Today it is not just a buzzing questions but the reality of AI implementation.*
 
 **Noah:** AI isn’t inherently a cure or a curse - **it’s a powerful tool**. The technology itself is neutral; the outcome depends on the intent and skills of the people using it.
 
@@ -61,7 +61,7 @@ I guess to answer the question: we can see **AI changing healthcare forever** by
 
 ### V. Vision & Future
 
-**Olga:** *Paint us a picture of* ***Finland’s healthcare landscape 10 years from now****—with and without your startup in it.*
+**Olga K.:** *Paint us a picture of* ***Finland’s healthcare landscape 10 years from now****—with and without your startup in it.*
 
 **Noah:**
 

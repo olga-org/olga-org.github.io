@@ -2,7 +2,7 @@
 
 # [The New North: Helsinki’s Urban Dreams in Motion](https://www.linkedin.com/pulse/new-north-helsinkis-urban-dreams-motion-olga-kryuchkova-xitxf)
 
-*Published on 2025-07-08 08:47*
+*Published on 08-07-2025, 4 min read*
 
 There’s a quiet confidence humming through Helsinki these days—not the bombastic confidence of steel skyscrapers or mile-high bullet trains, but a kind that glows through orderly construction fencing and architectural renderings taped behind glass. The Finnish capital is building—may be a bit noisily, not hastily—but with the methodical elegance of a Bach prelude played on concrete, wood, and steel. The question is not only what is being built—but why.
 

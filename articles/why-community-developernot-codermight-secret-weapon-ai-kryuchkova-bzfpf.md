@@ -2,11 +2,11 @@
 
 # [Why a Community Developer—Not a Coder—Might Be the Secret Weapon in AI Innovation](https://www.linkedin.com/pulse/why-community-developernot-codermight-secret-weapon-ai-kryuchkova-bzfpf)
 
-*Published on 2025-07-09 08:15*
+*Published on 09-07-2025, 9 min read*
 
 ### I. Origins & Founder’s Background
 
-**Olga:** Karolina, you come from social sciences and NGOs—what was the ‘Aha!’ moment that made you realize your strengths were vital in an AI-tech environment?
+**Olga K.:** Karolina, you come from social sciences and NGOs—what was the ‘Aha!’ moment that made you realize your strengths were vital in an AI-tech environment?
 
 Karolina Budzisz: First, just to clarify – I am not the startup’s founder. My current role is Chief of Staff and Community Development, and I started in the company as a Community Developer. The ‘Aha!’ moment you are talking about – that a person with my background can be useful in an AI/tech environment – was experienced rather by our CEO, whom I was lucky to be headhunted by.
 
@@ -24,7 +24,7 @@ We think that this social approach, combined with the tech skills of other membe
 
 ### II. The Idea & Innovation
 
-**Olga:** [SolveStack.ai](http://SolveStack.ai) aims to solve the ‘AI cold-start’ problem—what was the human insight behind choosing a matchmaking algorithm over pure human curation?
+**Olga K.:** [SolveStack.ai](http://SolveStack.ai) aims to solve the ‘AI cold-start’ problem—what was the human insight behind choosing a matchmaking algorithm over pure human curation?
 
 **Karolina:** We believe that a vast, global AI implementation is inevitable. We are not able to avoid it, and therefore, it is high time to embrace it and learn about it as much as we can. We are a company that wants to stay up-to-date with the newest technologies, understand our community, our clients, and the realities of the industry.
 
@@ -48,7 +48,7 @@ So, here we are. Introducing enterprises to startups and allowing them to grow t
 
 ### III. Relevance of Finnish Startup Job Market & Talents
 
-**Olga:** With Finland’s high-trust culture (esim. sisu), how do you see Finnish AI talent standing out in SolveStack matches?
+**Olga K.:** With Finland’s high-trust culture (esim. sisu), how do you see Finnish AI talent standing out in SolveStack matches?
 
 **Karolina:** We don’t limit ourselves to the Finnish startup and tech talent ecosystems. Of course, we are willing to discover the broader potential within the country, the innovation within and the team’s connotation to it. But we are hoping to become a hub for a broader range of European startups and for global experts and clients.
 
@@ -62,7 +62,7 @@ Moreover, our team offers facilitation of the connection with clients. Even thou
 
 ### IV. Tech, AI, Data & Ethics
 
-**Olga:** As AI accelerates, emotional intelligence often lags—is there a moment you’ve inserted an ethical or human concern into SolveStack’s pipeline?
+**Olga K.:** As AI accelerates, emotional intelligence often lags—is there a moment you’ve inserted an ethical or human concern into SolveStack’s pipeline?
 
 **Karolina:** One of the steps in the process of onboarding startups is the encounter with a team behind the ideas. We emphasize the importance of screening companies that we will vouch for in the future – not only in regards of their technology but also value alignment with joinExpertHub. We realized that by trusting us, the clients will trust the companies in our database, and that puts a lot of responsibility on us to sift out misaligning entrepreneurs and use-cases.
 
@@ -76,7 +76,7 @@ Lastly, we are also happy to work with diverse clients to learn the global pain 
 
 ### V. Vision & Future
 
-**Olga:** Five years out, how would joinExpertHub’s community culture need to evolve to support your vision of a human‑centered AI ecosystem?
+**Olga K.:** Five years out, how would joinExpertHub’s community culture need to evolve to support your vision of a human‑centered AI ecosystem?
 
 **Karolina:** We believe human-native intervention is essential in facilitating the connection between various actors. And this is our main task at joinExpertHub. Even though we are supported by an algorithm and we are existing in a tech-driven environment, only people can fully empathize with problems that require tech-driven solutions.
 

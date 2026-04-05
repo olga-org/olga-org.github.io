@@ -2,7 +2,7 @@
 
 # [From empowering women to empowering modern workers](https://www.linkedin.com/pulse/from-empowering-women-modern-workers-olga-kryuchkova)
 
-*Published on 2023-08-30 17:39*
+*Published on 30-08-2023, 3 min read*
 
 After the traditional July holidays in Finland, work and project life intensify. One of the events worth mentioning was [MentoraSTEAM Project](https://mentorasteam.eu/mentorasteam-employability-booster/) (Vaasa) which I participated due to the great initiative of [Liisa Kulta](https://www.linkedin.com/in/liisa-kulta-9a1892b1/)([Nicehearts](https://www.linkedin.com/company/nicehearts-ry/)) and Valentine Mukundwa([Nicehearts](https://www.linkedin.com/company/nicehearts-ry/)).
 

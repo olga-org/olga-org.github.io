@@ -2,7 +2,7 @@
 
 # [My Arctic15: A Day of Discoveries and Connections](https://www.linkedin.com/pulse/my-arctic15-day-discoveries-connections-olga-kryuchkova-s5cff)
 
-*Published on 2024-06-08 08:33*
+*Published on 08-06-2024, 2 min read*
 
 Attending [Arctic15](https://www.linkedin.com/company/arctic15events/) was nothing short of extraordinary, packed with productivity and rich in discoveries. I attended the event for the first time and was so impressed that you'll have to excuse my enthusiastic praise. I almost wish I could have stretched it out beyond the single day I was able to attend, given so much value was packed into such a short time.
 

@@ -2,7 +2,7 @@
 
 # [Here Artistry Meets Entrepreneurship: The Finnish Startup Making Classical Music Sustainable](https://www.linkedin.com/pulse/here-artistry-meets-entrepreneurship-finnish-startup-music-olga-k3hjf)
 
-*Published on 2026-01-12 15:00*
+*Published on 12-01-2026, 7 min read*
 
 ## I. Origins & Background
 
@@ -14,7 +14,7 @@ VIR2OSO emerged from that tension. As a performer, I understand the vulnerabilit
 
 I moved from Croatia to Finland at 18 to study at the Sibelius Academy since Finland is one of the global centers for classical accordion. What struck me most wasn’t just the musical excellence, but how Finnish institutions create space for artists to thrive. There’s a belief here that good systems should support creativity, not suffocate it. That’s VIR2OSO's foundation - I am building this from the musician’s perspective because I’ve lived it my entire life.
 
-![Photo by Olga K.](https://media.licdn.com/dms/image/v2/D4D12AQFLd2U_JWEf9g/article-inline_image-shrink_1000_1488/B4DZukO1d2LkAQ-/0/1767986911569?e=1772668800&v=beta&t=O4ff1Uz-lHUJznFj5BRp_tJ812IWexrfvDwNgtjGphE)
+![Photo by Olga K.](/assets/Publications/Leonardo2.jpg "Photo by Olga K.")
 
 ## II. The Idea & Innovation
 
@@ -30,7 +30,7 @@ VIR2OSO solves the trust problem through curation and transparency. Our artists 
 
 Every artist profile includes video performances, personal stories, and repertoire specialties - not just star ratings and price points. What we’re building toward is deeper storytelling and connection before the booking itself - helping clients make the best choice for their specific moment.
 
-![Photo by Olga K.](https://media.licdn.com/dms/image/v2/D4D12AQHhJW8yi-Gy-g/article-inline_image-shrink_1000_1488/B4DZukZeBlGgAQ-/0/1767989699218?e=1772668800&v=beta&t=VTIl5S-uKRmrOCgwirkg9AZ8067_UDFQRUxdDyqPquo)
+![Photo by Olga K.](/assets/Publications/Leonardo3.jpg "Photo by Olga K.")
 
 ### III. European Innovation & Cultural Ecosystem
 
@@ -46,7 +46,7 @@ I want VIR2OSO’s model to show that you can build a profitable, scalable busin
 
 We’re also creating sustainable income streams for musicians, which is essential for the art form’s survival. Many musicians who trained for decades struggle for their survival nowadays. If artists can’t make a living, classical music dies. VIR2OSO ensures they thrive while introducing new audiences to the art of live classical music.  
 
-![Photo by Olga K.](https://media.licdn.com/dms/image/v2/D4D12AQFAylEEA4qrPQ/article-inline_image-shrink_1500_2232/B4DZuo__aIHwAY-/0/1768066906445?e=1772668800&v=beta&t=Fuxm6QqxKbKA7DwVz-ZvAbDN9ygm8b-zYeQ9LhneoIw)
+![Photo by Olga K.](/assets/Publications/Leonardo4.jpg "Photo by Olga K.")
 
 ### IV. Tech, Ethics & Experience
 
@@ -56,8 +56,7 @@ We’re also creating sustainable income streams for musicians, which is essenti
 
 I’ve heard “horror stories” about platforms with massive margins where artists didn’t even know the final price clients paid. That’s not us. We take 15% commission from musicians - only after they’ve been paid for a successful performance. We want to enable performances, not limit them - but we also won’t sacrifice quality for growth. I believe that this curation over volume, experience over transaction, and musicians competing on artistry, not price - is what separates us from commoditization.
 
-![Photo by Olga K.](https://media.licdn.com/dms/image/v2/D4D12AQFekthWhcZsiw/article-inline_image-shrink_1500_2232/B4DZupIb1MKQAU-/0/1768069120018?e=1772668800&v=beta&t=mTv1wCwEUexMFNFuDnRu-ws4F-8abhaW3v6fkDclcJQ)
-
+![Photo by Olga K.](/assets/Publications/Leonardo5.jpg "Photo by Olga K.")
 ### V. Vision & Future
 
 **Olga: Where do you see VIR2OSO in 5-10 years?**
@@ -83,4 +82,4 @@ I haven’t abandoned music; I’m still performing, but now I’m also building
 
 If any of this resonates, or you know someone who should be involved, I’d love to connect.
 
-![Photo by Olga K.](https://media.licdn.com/dms/image/v2/D4D12AQEMgWmlUsbSAQ/article-inline_image-shrink_1500_2232/B4DZupMq.tKcAU-/0/1768070230794?e=1772668800&v=beta&t=wE_or2ULIDu_OccwLYgsFMIVQz2HdjIk8IxgL86jc18)
+![Photo by Olga K.](/assets/Publications/Leonardo6.jpg "Photo by Olga K.")

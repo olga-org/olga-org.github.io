@@ -2,7 +2,7 @@
 
 # [Tavoitteena selkeys.](https://www.linkedin.com/pulse/tavoitteena-selkeys-olga-kryuchkova)
 
-*Published on 2022-09-24 10:52*
+*Published on 24-09-2022, 3 min read*
 
 ## Olga opettaa digitaitoja englanniksi ja venäjäksi
 

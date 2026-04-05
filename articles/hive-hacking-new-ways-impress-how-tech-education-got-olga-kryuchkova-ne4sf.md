@@ -2,7 +2,7 @@
 
 # [Hive, Hacking, and New Ways to Impress: How Tech Education Got a Makeover](https://www.linkedin.com/pulse/hive-hacking-new-ways-impress-how-tech-education-got-olga-kryuchkova-ne4sf)
 
-*Published on 2024-09-09 17:21*
+*Published on 09-09-2024, 3 min read*
 
 Once, I found myself at a Canon conference with my friend, who happened to be an IT security specialist. Now, let me clarify—this wasn’t the kind of conference where you learn about cameras and how to perfectly capture sunsets. No, this was about cutting-edge technology and cybersecurity. Naturally, my friend, being an IT geek, was in his element.
 

@@ -2,7 +2,7 @@
 
 # [Kansalaisopistosta eväitä työelämään, hyvään arkeen ja osallisuuteen](https://www.linkedin.com/pulse/kansalaisopistosta-ev%C3%A4it%C3%A4-ty%C3%B6el%C3%A4m%C3%A4%C3%A4n-hyv%C3%A4%C3%A4n-arkeen-ja-olga-kryuchkova)
 
-*Published on 2022-10-24 07:04*
+*Published on 24-10-2022, 5 min read*
 
 *Suomalainen koulutusjärjestelmä on saanut tunnustusta korkeasta tasostaan ja innovatiivisuudestaan, erityisesti tehokkaan peruskoulutuksen osalta. Vapaan sivistystyön aikuiskoulutus puolestaan ei ole kenties aina saanut ansaitsemaansa tunnustusta. Se on kuitenkin vaikuttavaa ja tarjoaa laajat mahdollisuudet elinikäiselle oppimiselle ja itsensä toteuttamiselle.* EKKOn tietotekniikkaopettaja **Olga Kryuchkova** pohtii, mitä annettavaa kansalaisopistolla on kansalaisille ja koko yhteiskunnalle, esimerkkinä digitaitojen koulutus aikuisille.
 

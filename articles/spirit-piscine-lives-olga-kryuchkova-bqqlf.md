@@ -2,7 +2,7 @@
 
 # [The Spirit of Piscine Lives On!](https://www.linkedin.com/pulse/spirit-piscine-lives-olga-kryuchkova-bqqlf)
 
-*Published on 2025-05-30 06:01*
+*Published on 30-05-2025, 3 min read*
 
 Last Friday, May 23, something extraordinary happened with us— something that reminded us one more time why we chose the disruptive, ever changing, exhilarating world of IT in the first place. Hospitable [Hive Helsinki](https://www.linkedin.com/company/hive-helsinki/) is known as much for its rigorous bootcamps as for its caffeine-fueled camaraderie, in collaboration with [Print Room](https://www.linkedin.com/company/printroomhki/) (with workaholics in the person of my colleagues [Maria Loginova](https://www.linkedin.com/in/marialogi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADyNujUBd2m4IfVCAJhwWbjnvu5P_7t__cE) and [Laura Issakova](https://www.linkedin.com/in/lauissak?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACBWX9UBI9y-sFJ3zkQFXV3A_R8vA1c2weo)), hosted a slogan competition that was nothing short of a celebration of wit, teamwork, and the supremacy of unbreakable Piscine spirit.
 

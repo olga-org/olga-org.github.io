@@ -2,7 +2,7 @@
 
 # International Startup Founders Finland (ISFF) and Business Helsinki Community Meeting
 
-*Published on 2026-02-16*
+*Published on 16-02-2026, 1 min read*
 
 > “Community built by founders, for founders”
 

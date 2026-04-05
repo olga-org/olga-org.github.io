@@ -1,6 +1,6 @@
 # Open House at Aalto Creatives Pre-incubator programme
 
-*Published on 2026-01-14*
+*Published on 14-01-2026, 2 min read*
 
 Initiatives such as the **Aalto Creatives Pre-incubator programme** at Aalto University are truly inspiring. Open not only to students but to all curious and creative minds, the programme supports early-stage ideas through collaboration, experimentation, and innovative thinking — exactly what Finland needs right now.
 

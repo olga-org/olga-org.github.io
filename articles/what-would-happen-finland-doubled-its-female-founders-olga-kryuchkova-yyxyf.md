@@ -2,7 +2,7 @@
 
 # [What Would Happen If Finland Doubled Its Female Founders? Tina Suomi Maps the Ripple Effect](https://www.linkedin.com/pulse/what-would-happen-finland-doubled-its-female-founders-olga-kryuchkova-yyxyf)
 
-*Published on 2025-09-29 11:55*
+*Published on 29-09-2025, 12 min read*
 
 ### I. Origins & Lead’s Background
 
@@ -28,29 +28,29 @@ Olga K.: What’s one non-academic influence—like a person, book, or experienc
 
 ### III. Relevance of wednesday. to Finnish Startup & Innovation Ecosystem and Women Support In It
 
-**Olga:** What’s one myth about the Finnish startup scene that you’d love to bust for international female founders?
+**Olga K.:** What’s one myth about the Finnish startup scene that you’d love to bust for international female founders?
 
 **Tina:** One myth I’d love to bust is that Finland is already a perfectly level playing field. **From the outside it may look as if the Nordic model has solved equality, but the startup scene is still shaped by male-dominated networks, gender bias, and programs designed with men in mind.** At the same time, **more resources than ever are being directed toward female founders**, and **momentum for change is real**. There is deep talent, a culture of trust, and growing support for founders who don’t fit the old mold. For international female founders, Finland can be both challenging and rewarding; just don’t mistake the brand of equality for the full reality.
 
 ![Photo by Olga K.](/assets/Publications/wed3.jpg)
 
-**Olga:** In your view, what is the most underestimated resource Finland offers to female founders that outsiders fail to see?
+**Olga K.:** In your view, what is the most underestimated resource Finland offers to female founders that outsiders fail to see?
 
 **Tina:** Finland’s most underestimated resource for female founders isn’t money or programs, **it’s how quickly the ecosystem responds once you know where to knock**. Investors, corporates, cities, universities, and peer founders are unusually open to taking a meeting, co designing a pilot, or pointing you to a grant. From the outside, people assume access is scarce. In practice, the challenge is navigation, not availability. That’s exactly where wednesday. comes in. We act as the bridge from idea to action, mapping a founder’s goal to the shortest path through the noise. We don’t try to know everything; we know **who** knows. One week it’s a warm intro to a possible co-founder, the next it’s the right contact at a public program, a specialist mentor for go to market, or a peer founder who just solved the similar problem. For newcomers, especially women and non-binary individuals entering a network that can feel closed or overwhelming, we hope to make the start easier.
 
 ![Photo by Olga K.](/assets/Publications/wed4.jpg)
 
-**Olga:** If tomorrow Finland suddenly doubled the number of female founders, what ripple effect would you expect first—in startups, in policy, or in culture?
+**Olga K.:** If tomorrow Finland suddenly doubled the number of female founders, what ripple effect would you expect first—in startups, in policy, or in culture?
 
 **Tina:** If Finland doubled the number of female founders overnight, the first changes would show up inside startups. Company creation, pilots, and early sales move at founder speed, not election speed. Within a single funding cycle, accelerators would get bigger and more diverse applicant pools, corporate innovation teams would see more pilot requests, and angel groups would review a wider set of deals. You’d also notice a shift in what gets built: more products for care, health, education, public services, and workplace tools, plus climate solutions that touch daily life. Teams would look different too. Mixed founding teams usually hire more inclusively, do user research earlier, and run a tighter go-to-market, so they learn faster. As these wins stack up, the culture would start to shift. Media follows traction, not intentions. More visible customers, hires, and exits led by women would change who students picture when they think “founder,” who corporate buyers expect in the pitch room, and who angels feel confident backing. Meetups would feel different, conference speaker lists would rebalance, and the story of “what a Finnish startup looks like” would widen. Role models aren’t abstract, they’re the people you can email this week for advice. Policy would move last. Public co-investment programs update their criteria, outreach, and due diligence processes. Reporting standards around funding equity get sharper. And support that matters to founders as people, like childcare flexibility in accelerators and smarter international talent policy gets easier to justify, because it’s seen as a growth lever, not a side issue.
 
 ### IV. Tech, AI, Data & Ethics Reflections
 
-**Olga:** If AI could solve one barrier female founders face today, which would you choose—and which barrier would you not want AI to touch?
+**Olga K.:** If AI could solve one barrier female founders face today, which would you choose—and which barrier would you not want AI to touch?
 
 **Tina:** I would not want AI deciding who gets capital, stage time, or a seat at the table. Investment and selection choices are already shaped by bias and incentives. Turning them into algorithmic gatekeeping risks hiding bias behind a score and removing accountability. **Use AI to inform, never to decide.** Humans should own the call, the context, and the responsibility.
 
-**Olga:** What ethical question keeps you up at night when you think about applying data or AI to founder communities?
+**Olga K.:** What ethical question keeps you up at night when you think about applying data or AI to founder communities?
 
 **Tina:** One ethical question that keeps me up at night when thinking about applying data or AI to founder communities is how to prevent gender bias from being built into the system. On the surface, algorithms can look neutral, even objective, but in reality they mirror the history of the data they are trained on. If funding, hiring, and media coverage have traditionally favored men, then AI systems that learn from those patterns risk doing the same quietly down-ranking women and nonbinary founders while giving the impression of fairness. Bias can creep in at many points e.g. scoring tools for accelerators and grants as well as mentor and investor matching. The harm is real, all wrapped in the false legitimacy of “data-driven” decisions. The fix starts with intent and proof. Use broader, more representative data; remove proxy signals that track gender identity, marital/relationship status, or parental/caregiver status (for example, references to a husband/wife or parental leave), stress-test models with counterfactuals, keep humans in the loop for high-stakes calls, publish clear criteria and audit results, and track downstream outcomes by gender and intersections. If an AI system isn’t widening access and improving fairness, it shouldn’t ship. Use AI to surface overlooked talent and expand opportunity not to automate old biases.
 
@@ -58,11 +58,11 @@ Olga K.: What’s one non-academic influence—like a person, book, or experienc
 
 ### V. Vision & Future of wednesday.
 
-**Olga:** Wednesday. develop a lot of different initiatives. In response, what type of support and help wednesday. expect from actors of Finnish tech and innovation ecosystem, to strengthen the formation of women's entrepreneurship?
+**Olga K.:** Wednesday. develop a lot of different initiatives. In response, what type of support and help wednesday. expect from actors of Finnish tech and innovation ecosystem, to strengthen the formation of women's entrepreneurship?
 
 **Tina:** The first and most important ask is genuine interest. We are looking for partners who want to be change makers rather than bystanders, who show up because advancing equity is core to their mission, not a seasonal campaign. Our work is already creating visible impact, which means the question is no longer why but how we scale the results together. Real commitment shows in choices, not slogans. We want companies, funds, universities, and public actors whose strategies embed DEI in goals, budgets, hiring, product decisions, procurement, and governance. If inclusion is already in your strategy and you are ready to execute, we are ready to collaborate.
 
-**Olga:** What forms of partnership, collaboration, or external support would be most valuable for advancing Wednesday. initiatives development?
+**Olga K.:** What forms of partnership, collaboration, or external support would be most valuable for advancing Wednesday. initiatives development?
 
 **Tina:** To advance wednesday’s initiatives, the most valuable forms of partnership and support would include **establishing long-term relationships with companies and individuals who put diversity and inclusion at the core of their mission**. These partnerships bring credibility, shared expertise, and networks that amplify our impact. Equally important, we need to secure sustainable funding, not only for programs but also for core operations, so that we can maintain capacity, retain talent, and deliver consistently at scale.
 
@@ -70,7 +70,7 @@ Furthermore, c**ollaboration with key institutions such as universities, acceler
 
 Finally, **gaining publicity and visibility is critical to maximizing our impact**. We’ve at times received remarkable hype from abroad, even while things remain comparatively quiet locally. Strengthening strategic communications, media partnerships, and community-facing campaigns, especially at the local level will help close that gap, build momentum at home, and ensure our work reaches our target group. Together, these forms of collaboration will enable wednesday. to deliver meaningful, lasting change.
 
-**Olga:** How would you like wednesday. to change the way young women and non-binary individuals imagine themselves in the role of “founder”?
+**Olga K.:** How would you like wednesday. to change the way young women and non-binary individuals imagine themselves in the role of “founder”?
 
 **Tina:** I want wednesday. to help young women and non-binary individuals see “founder” as **something you grow into by doing**, not a title you earn by being perfect first. Perfectionism makes you wait. Founders learn by doing, talking to customers, and trying again. If we do our job, the question shifts from “am I ready” to “**what is my next step this week**.” I also want the picture of a founder to widen: people of color, different ages, accents, races and ethnicities, backgrounds and life situations. Technical and non-technical. Neurodivergent people. You don’t have to look or sound one way to build something real. Seeing people like you in the room changes what you believe is possible.
 

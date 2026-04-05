@@ -2,7 +2,7 @@
 
 # [Inside the Creative Storm: 11 Art-Based Startups That Redefining Innovation at Uniarts Hub Demo Day](https://www.linkedin.com/pulse/inside-creative-storm-11-art-based-startups-uniarts-hub-kryuchkova-um7tf)
 
-*Published on 2025-11-27 18:26*
+*Published on 27-11-2025, 4 min read*
 
 It was inspiring experience to be part of Demo Day — the culmination of this autumn’s pre-incubator journey with Uniarts Hub, based at [**University of the Arts Helsinki**](https://www.linkedin.com/school/uniartshelsinki/). Unique opportunity to witness eleven emerging art-based startups pitch their visions, each bringing something deeply personal, creative and full of promise.
 

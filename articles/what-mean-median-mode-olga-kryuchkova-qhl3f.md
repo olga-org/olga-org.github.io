@@ -2,7 +2,7 @@
 
 # [What is mean, median, mode, standard deviation, standard error, sample variance and kurtosis.](https://www.linkedin.com/pulse/what-mean-median-mode-olga-kryuchkova-qhl3f)
 
-*Published on 2024-04-24 19:02*
+*Published on 24-04-2024, 3 min read*
 
 Let's imagine we have some numbers:
 

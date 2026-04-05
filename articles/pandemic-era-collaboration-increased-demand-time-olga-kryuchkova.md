@@ -2,7 +2,7 @@
 
 # [Pandemic-era collaboration increased the demand for productive applications in post-Covid time](https://www.linkedin.com/pulse/pandemic-era-collaboration-increased-demand-time-olga-kryuchkova)
 
-*Published on 2022-11-08 11:30*
+*Published on 08-11-2022, 2 min read*
 
 Pandemic-era collaboration strengthened business commitment to digitalization and retraining of employees. Our team observations and partnerships with companies show an increasing interest in small applications that make it easier to organize daily work. The Booking app is one of them. Recently, several people have already asked many questions about it. It is not new, but if to judge by the increasing demand for it and the sustained growth of [Microsoft Teams' popularity for business](https://www.techradar.com/news/microsoft-teams-is-officially-more-popular-than-email-for-most-businesses), it is worth sharing guiding information for a quick orientation.
 

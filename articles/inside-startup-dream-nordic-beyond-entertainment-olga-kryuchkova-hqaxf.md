@@ -2,7 +2,7 @@
 
 # [Inside the Startup Dream: How Nordic Beyond Entertainment Is Building Finland’s Bridge to Global Audiences](https://www.linkedin.com/pulse/inside-startup-dream-how-nordic-beyond-entertainment-olga-kryuchkova-hqaxf)
 
-*Published on 2025-10-16 16:00*
+*Published on 16-10-2025, 11 min read*
 
 Today we’re speaking with Fangda Chen, and Arpit Jain the co-founders of Nordic Beyond Entertainment Oy **(NBE)**—a Finnish startup that blends creativity, culture, and digital storytelling. NBE is already partnering with projects like SPLASH! **Forum**, where they bring their energy to social media promotion, and TUNTU **– Sense the Experience**, which designs nature-inspired immersive spaces for businesses.
 

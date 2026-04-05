@@ -2,7 +2,7 @@
 
 # Exiting meetings on Microsoft Ignite The Tour Milan, Italy (27-28 January 2020)
 
-*Published on 2020-02-02*
+*Published on 02-02-2020, 4 min read*
 
 This was my first conference abroad in which I participated as a subject matter expert and specialist (MCT) in training users of Microsoft Office 365 and Microsoft Teams. But let's take things in order.
 
